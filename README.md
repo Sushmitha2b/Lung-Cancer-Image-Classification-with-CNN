@@ -14,6 +14,8 @@ The primary goal of this project is to build and evaluate a CNN model for classi
  
 Data Preparation
 
+The dataset used for this project can be downloaded from Mendeley Data - https://data.mendeley.com/datasets/bhmdr45bh2/1
+
 The dataset consists of grayscale images divided into three categories:
 
 	•	Benign
